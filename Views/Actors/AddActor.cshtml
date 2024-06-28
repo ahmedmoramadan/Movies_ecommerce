@@ -1,0 +1,21 @@
+﻿@model AddActorViewModel
+
+@{
+    ViewData["Title"] = "AddActor";
+}
+
+<h1>AddActor</h1>
+
+<hr />
+
+<form asp-action="AddActor" enctype="multipart/form-data">
+    <partial name="AddPartialView" />
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+ @section Scripts {
+    <partial name="_SectionPartialView" />
+} 

@@ -1,0 +1,27 @@
+﻿@model EditActorViewModel
+
+    <div class="col-md-6">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Name" class="control-label mt-2"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Bio" class="control-label mt-2"></label>
+            <input asp-for="Bio" class="form-control" />
+            <span asp-validation-for="Bio" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Cover" class="form-label mt-4"></label>
+            <input asp-for="Cover" class="form-control" type="file"
+                   data-rule-extension="@FileSettings.AllowedExtentions.Replace("." , string.Empty)"
+                   data-msg-extension="not allowed extensionssssssssss"
+                   data-rule-filesize="@FileSettings.MaxSizeinByte"
+                   data-msg-filesize="maximum allowed size is @FileSettings.MaxSizeInMB MB" />
+            <span asp-validation-for="Cover" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-3">
+            <input type="submit" value="Update" class="btn btn-primary" />
+        </div>
+    </div>

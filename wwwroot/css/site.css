@@ -1,0 +1,63 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.AddNew{
+    position:fixed;
+    bottom:100px;
+    left:50%;
+}
+
+.photoTb img{
+    width:120px;
+    height:120px;
+}
+.cinema{
+    color:white !important;
+    font-size:20px;
+    position:relative;
+}
+
+    .cinema a {
+        position: relative;
+        color:white !important;
+    }
+
+    .cinema a::before{
+        content:"";
+        position:absolute;
+        top:100%;
+        left:0;
+        background:red;
+        width:0;
+        height:5px;
+        border-radius:7px;
+        transition:0.4s;
+       
+
+    }
+
+    .cinema a:hover::before{
+        width:100%;
+
+    }
+/* index movie */

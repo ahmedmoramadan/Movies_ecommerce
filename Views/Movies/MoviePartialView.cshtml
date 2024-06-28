@@ -1,0 +1,111 @@
+﻿@model MainMovieViewModel
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group mt-3">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="DeScription" class="control-label">Description</label>
+        <input asp-for="DeScription" class="form-control" />
+        <span asp-validation-for="DeScription" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input type="datetime-local" class="form-control" asp-for="StartDate" value="@Model.StartDate">
+        <span asp-validation-for="StartDate"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="EndDate" class="control-label"></label>
+        <input type="datetime-local" class="form-control" asp-for="EndDate" value="@Model.EndDate">
+        <span asp-validation-for="EndDate"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="price" class="control-label"></label>
+        <input asp-for="price" class="form-control" />
+        <span asp-validation-for="price" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="CinemaId" class="control-label"></label>
+        <select asp-for="CinemaId" class="form-control" asp-items="@Model.Cinemas">
+            <option value="">select Cinema</option>
+        </select>
+        <span asp-validation-for="CinemaId" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="SelectActors" class="form-label"></label>
+        <select multiple="" class="form-select" asp-for="SelectActors" asp-items="@Model.Actors">
+            <option value="">select actor/s</option>
+        </select>
+        <span asp-validation-for="SelectActors" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="CategoryId" class="control-label"></label>
+        <select asp-for="CategoryId" class="form-control" asp-items="@Model.Categories">
+            <option value="">select Category</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group mt-3">
+        <label asp-for="ProducerId" class="control-label"></label>
+        <select asp-for="ProducerId" class="form-control" asp-items="@Model.Producers">
+            <option value="">select Producers</option>
+        </select>
+        <span asp-validation-for="ProducerId" class="text-danger"></span>
+
+            </div>
+@* <div asp-validation-summary="All" class="text-danger"></div>
+<div class="form-group mt-3">
+    <label asp-for="Name" class="control-label"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="DeScription" class="control-label">Description</label>
+    <input asp-for="DeScription" class="form-control" />
+    <span asp-validation-for="DeScription" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="StartDate" class="control-label"></label>
+    <input type="datetime-local" class="form-control" asp-for="StartDate" value="@Model.StartDate">
+    <span asp-validation-for="StartDate"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="EndDate" class="control-label"></label>
+    <input type="datetime-local" class="form-control" asp-for="EndDate" value="@Model.EndDate">
+    <span asp-validation-for="EndDate"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="price" class="control-label"></label>
+    <input asp-for="price" class="form-control" />
+    <span asp-validation-for="price" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="CinemaId" class="control-label"></label>
+    <select asp-for="CinemaId" class="form-control" asp-items="@Model.Cinemas">
+        <option value="">select Cinema</option>
+    </select>
+    <span asp-validation-for="CinemaId" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="SelectActors" class="form-label"></label>
+    <select multiple="" class="form-select" asp-for="SelectActors" asp-items="@Model.Actors">
+        <option value="">select actor/s</option>
+    </select>
+    <span asp-validation-for="SelectActors" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="CategoryId" class="control-label"></label>
+    <select asp-for="CategoryId" class="form-control" asp-items="@Model.Categories">
+        <option value="">select Category</option>
+    </select>
+    <span asp-validation-for="CategoryId" class="text-danger"></span>
+</div>
+<div class="form-group mt-3">
+    <label asp-for="ProducerId" class="control-label"></label>
+    <select asp-for="ProducerId" class="form-control" asp-items="@Model.Producers">
+        <option value="">select Producers</option>
+    </select>
+    <span asp-validation-for="ProducerId" class="text-danger"></span>
+ *@

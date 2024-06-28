@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Movie>
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>test</h1>
+<partial name="SearchPartialView" />
+<div class="container">
+    <div class="row">
+        @foreach (var G in Model)
+        {
+            <div class="col-md-5 m-2">
+              @G.Description
+                <div class="card custom-card">
+                    <div class="card-header">
+                        <b class="m-2" style="font-size:25px">@G.Name</b>
+                      <a class="btn btn-secondary m-1 float-xxl-end" asp-action="Edit" asp-route-id="@G.Id" >Edit</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card-body d-flex align-items-end h-100px" style="background-image: url(@($"{FileSettings.ImagePathMovies}/{G.Cover}"));background-size:cover ; background-position:center ; height:400px;">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <p><strong>Name:</strong><span>@G.Name </span></p>
+                                <p><strong>Price:</strong><span>@G.Price</span></p>
+                                <p><strong>CateName:</strong><span>@G.Category.Name</span></p>
+                                <p><strong>StartDate:</strong><span>@G.StartDate</span></p>
+                                <p><b>stuta:</b>
+                                    @if(DateTime.Now>=G.StartDate && DateTime.Now <= G.EndDate)
+                                    {
+                                        <span style="color:blue; background-color:black" class="p-1">Avalible</span>
+                                    }
+                                    else
+                                    {
+                                        <span style="color:red ;background-color:black" class="p-1 border-2">not aval..</span>
+                                    }
+                                </p>
+                                                  
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                       <img src="@($"{FileSettings.ImagePathProducer}/{G.Producer.Cover}")" style="width:80px;height:90px;" class="m-2">
+                       @foreach(var i in G.actors_Movies)
+                        {
+                            <img src="@($"{FileSettings.ImagePathActor}/{i.Actor.Cover}")" style="width:80px;height:90px;" class="m-2">
+                        }
+                    </div>
+                </div>
+            </div>
+            
+        }
+    </div>
+</div>
+
+<a asp-action="Add" class="btn btn-primary btn-lg mt-3"> <i class="bi-plus-circle m-1 " style="color:gold"></i> Add </a>
+
+

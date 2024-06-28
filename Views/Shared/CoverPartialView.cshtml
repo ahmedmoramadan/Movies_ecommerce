@@ -1,0 +1,10 @@
+﻿@model AddActorViewModel
+<div class="form-group">
+    <label asp-for="Cover" class="form-label mt-4"></label>
+    <input asp-for="Cover" class="form-control" type="file"
+           data-rule-extension="@FileSettings.AllowedExtentions.Replace("." , string.Empty)"
+           data-msg-extension="not allowed extensionssssssssss"
+           data-rule-filesize="@FileSettings.MaxSizeinByte"
+           data-msg-filesize="maximum allowed size is @FileSettings.MaxSizeInMB MB" />
+    <span asp-validation-for="Cover" class="text-danger"></span>
+</div>

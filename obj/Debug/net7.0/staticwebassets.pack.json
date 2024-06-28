@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\movies_ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\movies_ecommerce.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Actors\\1e5ab436-e2bb-42a3-b505-2ac8e656515e.PNG",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Actors\\1e5ab436-e2bb-42a3-b505-2ac8e656515e.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Actors\\3c61254f-5b98-44aa-9007-ccb81f606f12.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Actors\\3c61254f-5b98-44aa-9007-ccb81f606f12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Cinemas\\35fd63bb-6648-44bd-ae0b-823609e7b14b.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Cinemas\\35fd63bb-6648-44bd-ae0b-823609e7b14b.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Cinemas\\740e1903-0cb7-4bfa-82aa-4cd1913944ac.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Cinemas\\740e1903-0cb7-4bfa-82aa-4cd1913944ac.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\04a6aeac-f7a5-425b-8508-2f0ce89b7db4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\04a6aeac-f7a5-425b-8508-2f0ce89b7db4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\0a7f7de4-ddb2-4883-b7ba-683a3f6d83ad.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\0a7f7de4-ddb2-4883-b7ba-683a3f6d83ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\5523a66c-f16d-40c8-b9d6-3db3a463f120.PNG",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\5523a66c-f16d-40c8-b9d6-3db3a463f120.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\59cd2264-b3c0-4e55-9330-03ea1bc813f9.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\59cd2264-b3c0-4e55-9330-03ea1bc813f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\608c582b-bc72-4eed-a636-e8dd3a8434a8.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\608c582b-bc72-4eed-a636-e8dd3a8434a8.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\6ce43fce-fd3e-4769-9bec-6f7ecd78c3c2.jpeg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\6ce43fce-fd3e-4769-9bec-6f7ecd78c3c2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\7035032b-fe42-46b8-8956-2a20cb4ebc8f.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\7035032b-fe42-46b8-8956-2a20cb4ebc8f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\7de12ddc-a8c3-43fd-a7c0-ee51c99a6fb9.PNG",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\7de12ddc-a8c3-43fd-a7c0-ee51c99a6fb9.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\87de3e4e-2342-4f09-b7d8-f98e18c571d7.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\87de3e4e-2342-4f09-b7d8-f98e18c571d7.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\91e17db8-d28c-4f71-8eda-69cbc012e0a0.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\91e17db8-d28c-4f71-8eda-69cbc012e0a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\9799b36d-882e-4937-82ba-8819d19962d9.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\9799b36d-882e-4937-82ba-8819d19962d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\ab49b350-11fd-42ba-9099-1d10cd7408fa.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\ab49b350-11fd-42ba-9099-1d10cd7408fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\ae4ddff5-b891-4b32-9aaf-6c567d0d671e.PNG",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\ae4ddff5-b891-4b32-9aaf-6c567d0d671e.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\ae9548d2-1025-4a83-8051-82824ba8b28d.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\ae9548d2-1025-4a83-8051-82824ba8b28d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\c04d240f-3de0-4b99-88ad-792b84cc649d.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\c04d240f-3de0-4b99-88ad-792b84cc649d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\d5e4134c-edf9-4c36-917e-34da7c2dc48f.PNG",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\d5e4134c-edf9-4c36-917e-34da7c2dc48f.PNG"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Movies\\e12ad7b9-ce3f-4999-9060-4cf1b6fcac08.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Movies\\e12ad7b9-ce3f-4999-9060-4cf1b6fcac08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Producers\\5455cf8e-d398-4b51-8a1c-09bf16f5274e.png",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Producers\\5455cf8e-d398-4b51-8a1c-09bf16f5274e.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Producers\\96c38bfd-a749-481d-b59a-280979291cb8.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Producers\\96c38bfd-a749-481d-b59a-280979291cb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\Assets\\Images\\Producers\\cadea230-dccd-4e44-8fed-75725c8e5e54.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Images\\Producers\\cadea230-dccd-4e44-8fed-75725c8e5e54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\css\\bootstrap.min (2).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (2).css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\css\\cinima.css",
+      "PackagePath": "staticwebassets\\css\\cinima.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\js\\Cover-preview.js",
+      "PackagePath": "staticwebassets\\js\\Cover-preview.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\js\\filesize-validation.js",
+      "PackagePath": "staticwebassets\\js\\filesize-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-logo\\bootstrap-logo.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-logo\\bootstrap-logo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap-logo\\bootstrap-logo.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-logo\\bootstrap-logo.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Iti TEST\\movies_ecommerce\\movies_ecommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.movies_ecommerce.props",
+      "PackagePath": "build\\movies_ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.movies_ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\movies_ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.movies_ecommerce.props",
+      "PackagePath": "buildTransitive\\movies_ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.movies_ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

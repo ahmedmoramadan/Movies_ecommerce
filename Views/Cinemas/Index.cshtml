@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Cinema>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>My Cinemas</h3>
+<hr />
+
+<partial name="SearchPartialView" />
+<table class=" table table-hover"> 
+    <tr class="table-primary " style="font-size:22px">
+        <th >Logo</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var i in Model)
+    {
+        <tr style="font-size:22px">
+            <td class="align-middle photoTb"><img src="@($"{FileSettings.ImagePathCinema}/{i.Logo}")" alt="@i.Name" @* style="width:140px ;height:140px ;border-radius:30px" *@ /></td>
+            <td class="align-middle">@i.Name</td>
+            <td class="align-middle">
+                <partial name="_ActionPartialView" model="@i.Id" />
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<a asp-action="Add" class="btn btn-primary btn-lg mt-3"> <i class="bi-plus-circle m-1 " style="color:gold"></i> Add Cinema</a>
+

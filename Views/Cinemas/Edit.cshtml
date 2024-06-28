@@ -1,0 +1,26 @@
+﻿@model movies_ecommerce.ViewModel.EditActorViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EditActorViewModel</h4>
+<hr />
+<form asp-action="Edit" asp-controller="Cinemas" asp-route-id="@Model.Id" enctype="multipart/form-data">
+    <div class="row">
+        <partial name="EditPartialView" />
+        <div class="col-md-6 d-flex justify-content-end">
+            <img class="cover-preview" src="@($"{FileSettings.ImagePathCinema}/{Model.CuruntCover}")" alt="cover" style="width:300px;height:300px" />
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <partial name="_SectionPartialView" />
+}
